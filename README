@@ -1,0 +1,24 @@
+# Template API
+
+Template Basico e configurado com algumas libs
+
+-Node
+-Typescript
+-Eslint
+-CommitZeb
+-Husky
+-Jest
+-SuperTest
+
+---
+
+## 📋 Pré-requisitos
+
+- [Node.js](https://nodejs.org/) (versão 22.11 ou superior)
+- [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/) instalado
+
+---
+
+## 🚀 Começando
+
+Siga estas instruções para configurar e executar o projeto localmente.
