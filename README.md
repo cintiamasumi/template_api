@@ -39,8 +39,7 @@ Alternatively, you can use yarn:
 #### Configure the environment variables
 
 Create a .env file in the project's root directory. If you don't specify a PORT in the .env file, the default port will be set to 3000. Example:
-
-    ```bash
+    
     # Example .env file
     PORT=3000
 
@@ -52,6 +51,6 @@ Run the following command to start the server in development mode:
 
 Test the default route by accessing:
 
-    ```bash
+    
     GET http://localhost:3000/
 
