@@ -6,7 +6,7 @@ A basic API template pre-configured with essential libraries and tools.
 - Node
 - Typescript
 - Eslint
-- CommitZeb
+- CommitZen
 - Husky
 - Jest
 - SuperTest
