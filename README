@@ -1,4 +1,4 @@
-# Template API
+#Template API
 
 Template Basico e configurado com algumas libs
 
@@ -12,13 +12,13 @@ Template Basico e configurado com algumas libs
 
 ---
 
-## 📋 Pré-requisitos
+##📋 Pré-requisitos
 
 - [Node.js](https://nodejs.org/) (versão 22.11 ou superior)
 - [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/) instalado
 
 ---
 
-## 🚀 Começando
+##🚀 Começando
 
 Siga estas instruções para configurar e executar o projeto localmente.
